@@ -1,13 +1,8 @@
-@charset "UTF-8"
-
-body{
-    
-}
-.personagem-1{
+.item-1{
     float: left;
     padding-right: 10px;
 }
-.personagem-2{
+.item-2{
     float: right;
     padding-left: 10px;
 }
